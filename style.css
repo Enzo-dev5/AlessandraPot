@@ -204,8 +204,8 @@ body{
     gap: 30px;
 }
 .energy_shapes_example img{
-    width: 500px;
-    height: 350px;
+    width: 600px;
+    height: 400px;
     object-fit: cover;
     border-radius: 15px;
 }
@@ -366,4 +366,5 @@ body{
     font-weight: 500;
     font-size: 1rem;
     line-height: 1.5rem;
+
 }
